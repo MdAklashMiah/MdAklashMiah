@@ -19,15 +19,15 @@ jobs:
           github_user_name: MdAklashMiah
           outputs: dist/snake.svg
 
-          # 🎨 Custom colors
-          color_snake: "#00F7FF" # snake color
-          color_dots: "#222831,#00ff00,#00ccff,#ff00ff,#ffcc00"
+          # 🎨 Custom colors (Dark Mode)
+          color_snake: "#00F7FF" # neon cyan snake
+          color_dots: "#0d1117,#00ff88,#00ccff,#ff00ff,#ffcc00"
           # Explanation:
-          #   - #222831 → no contribution days (instead of white)
-          #   - #00ff00 → low contributions
-          #   - #00ccff → medium contributions
-          #   - #ff00ff → high contributions
-          #   - #ffcc00 → very high contributions
+          #   - #0d1117 → background (no contributions), matches GitHub dark mode
+          #   - #00ff88 → low contributions (greenish)
+          #   - #00ccff → medium contributions (cyan)
+          #   - #ff00ff → high contributions (magenta)
+          #   - #ffcc00 → very high contributions (gold)
 
       # Push the generated snake.svg to the output branch
       - name: Push to output branch
