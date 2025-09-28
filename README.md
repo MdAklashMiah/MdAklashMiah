@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Md Aklash Miah  
+<div align="center">
+  <h1>👋 Hi, I'm Md Aklash Miah</h1>
+</div>  
 
 <p align="center">
 🚀 Frontend | Full Stack | MERN Stack Developer
