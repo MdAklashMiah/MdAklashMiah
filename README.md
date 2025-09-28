@@ -1,6 +1,5 @@
-#<p align="center">
-   👋 Hi, I'm Md Aklash Miah  
-</p>
+# 👋 Hi, I'm Md Aklash Miah  
+
 <p align="center">
 🚀 Frontend | Full Stack | MERN Stack Developer
 Passionate about crafting modern, scalable and user-friendly web applications.
@@ -44,32 +43,12 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats 
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAklashMiah&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAklashMiah&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight)  
-
----
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAklashMiah&theme=radical" />
 </p>
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdAklashMiah&label=Profile%20views&color=ff69b4&style=flat" alt="MdAklashMiah" />
-</p>
-
----
-
-## 📂 Featured Projects  
-- 🔗 [Portfolio](https://github.com/MdAklashMiah/portfolio) – Personal portfolio built with React & Tailwind.  
-- 🔗 [Task Manager API](https://github.com/MdAklashMiah/task-manager-api) – REST API using Node.js & MongoDB.  
-- 🔗 [ML Playground](https://github.com/MdAklashMiah/ml-playground) – A collection of fun machine learning experiments.  
 
 ---
 
