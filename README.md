@@ -76,16 +76,6 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-</div>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MdAklashMiah/MdAklashMiah/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
 ✨ <i>Thanks for visiting my profile!</i> ✨
 </p>
