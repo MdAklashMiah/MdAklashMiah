@@ -54,7 +54,7 @@ I love turning ideas into reality using clean code and creative UI/UX.</h3>
 <div align="center">
   <h3>Connect with me</h3>
   <div>
-     <a  href="https:www.linkedin.com/in/md-aklash-miah" target="_blank">
+     <a  href="www.linkedin.com/in/md-aklash-miah" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
   </div>
