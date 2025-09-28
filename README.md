@@ -51,9 +51,12 @@ I love turning ideas into reality using clean code and creative UI/UX.
   <h2>📈 GitHub Stats</h2>
 </div>  
 
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAklashMiah&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAklashMiah&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight)  
+</div>
 
 ---
 
