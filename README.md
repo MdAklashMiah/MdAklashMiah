@@ -3,14 +3,6 @@
 Passionate about crafting modern, scalable and user-friendly web applications.
 I love turning ideas into reality using clean code and creative UI/UX.
 
-## 🚀 About Me  
-- 💻 I’m a passionate Full-Stack Developer.  
-- 🌱 Currently learning **Next.js & Cloud Computing**.  
-- 🔭 Working on **open-source projects**.  
-- 👯 Looking to collaborate on **Web Development & AI projects**.  
-- 💬 Ask me about **React, Node.js, and Python**.  
-- ⚡ Fun fact: I enjoy solving coding challenges and exploring new tech stacks!  
-
 ---
 
 ## 🛠 Tech Stack  
@@ -54,6 +46,21 @@ I love turning ideas into reality using clean code and creative UI/UX.
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight)  
 
 ---
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAklashMiah&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdAklashMiah&label=Profile%20views&color=ff69b4&style=flat" alt="MdAklashMiah" />
+</p>
+
+---
 
 ## 📂 Featured Projects  
 - 🔗 [Portfolio](https://github.com/MdAklashMiah/portfolio) – Personal portfolio built with React & Tailwind.  
@@ -62,10 +69,13 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 ---
 
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-aklash-miah)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=firefox)](https://tap-to-code.vercel.app)  
+## 🌐 Connect with Me  
 
+<p align="center">
+  <a href="https://tap-to-code.vercel.app" target="_blank">🌍 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/md-aklash-miah" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/MdAklashMiah" target="_blank">👨‍💻 GitHub</a>
+</p>
 ---
 
 ✨ _Thanks for visiting my profile!_ ✨
