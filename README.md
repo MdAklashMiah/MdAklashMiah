@@ -96,7 +96,7 @@
 </div>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdAklashMiah/MdAklashMiah/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAklashMiah&theme=github&hide_border=true" />
 </p>
 
 ---
