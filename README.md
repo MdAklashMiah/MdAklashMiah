@@ -60,4 +60,6 @@ I love turning ideas into reality using clean code and creative UI/UX.
 </p>
 ---
 
+<p align="center">
 ✨ _Thanks for visiting my profile!_ ✨
+</p>
