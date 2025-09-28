@@ -35,7 +35,6 @@
 
   <!-- Others -->
   <img src="https://skillicons.dev/icons?i=api" width="36" height="36" alt="API"/>
-  <img src="https://skillicons.dev/icons?i=axios" width="36" height="36" alt="Axios"/>
   <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux"/>
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React Native"/>
   <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/>
@@ -59,16 +58,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight" height="180"/>
-</p>
-
----
-
-<div align="center">
-  <h2>📊 Contribution Graph</h2>
-</div>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAklashMiah&theme=tokyo-night" />
 </p>
 
 ---
