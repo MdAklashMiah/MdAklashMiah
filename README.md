@@ -31,24 +31,38 @@ I love turning ideas into reality using clean code and creative UI/UX.</h3>
 </div>
 
 
+## 🛠 Tech Stack  
+
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="48" height="48" alt="JavaScript"/>
-  <img src="https://img.icons8.com/plasticine/48/react.png" width="48" height="48" alt="React"/>
+  <img src="https://img.icons8.com/color/36/html-5--v1.png" width="36" height="36" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/36/css3.png" width="36" height="36" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/36/bootstrap.png" width="36" height="36" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/36/sass.png" width="36" height="36" alt="SCSS"/>
+  <img src="https://img.icons8.com/color/36/tailwind_css.png" width="36" height="36" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/36/javascript--v1.png" width="36" height="36" alt="JavaScript"/>
+  <img src="https://img.icons8.com/plasticine/36/react.png" width="36" height="36" alt="React"/>
+  <img src="https://img.icons8.com/color/36/nextjs.png" width="36" height="36" alt="Next.js"/>
 
   <!-- Backend -->
-  <img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express.png" width="48" height="48" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="48" height="48" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/36/nodejs.png" width="36" height="36" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/36/express.png" width="36" height="36" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/36/mongodb.png" width="36" height="36" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/36/firebase.png" width="36" height="36" alt="Firebase"/>
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/git.png" width="48" height="48" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" width="48" height="48" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/gitlab.png" width="48" height="48" alt="GitLab"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="48" height="48" alt="VS Code"/>
+  <!-- Others -->
+  <img src="https://img.icons8.com/color/36/api.png" width="36" height="36" alt="API"/>
+  <img src="https://img.icons8.com/color/36/axios.png" width="36" height="36" alt="Axios"/>
+  <img src="https://img.icons8.com/color/36/redux.png" width="36" height="36" alt="Redux"/>
+  <img src="https://img.icons8.com/color/36/react-native.png" width="36" height="36" alt="React Native"/>
+  <img src="https://img.icons8.com/color/36/git.png" width="36" height="36" alt="Git"/>
+  <img src="https://img.icons8.com/color/36/github.png" width="36" height="36" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/36/npm.png" width="36" height="36" alt="NPM"/>
+  <img src="https://img.icons8.com/color/36/webpack.png" width="36" height="36" alt="Webpack"/>
+  <img src="https://img.icons8.com/color/36/netlify.png" width="36" height="36" alt="Netlify"/>
+  <img src="https://img.icons8.com/color/36/vercel.png" width="36" height="36" alt="Vercel"/>
 </p>
+
 
 
 <div align="center">
