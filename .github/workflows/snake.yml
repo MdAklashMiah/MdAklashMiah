@@ -17,7 +17,7 @@ jobs:
           github_user_name: MdAklashMiah
           outputs: dist/snake.svg
           color_snake: "#22c55e"
-          color_dots: "#1e40af,#3b82f6,#6366f1,#8b5cf6,#a855f7"
+          color_dots: "#40c463"
           
 
       - name: Push Snake Animation
