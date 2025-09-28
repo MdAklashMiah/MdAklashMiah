@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase"/>
 
   <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=api" width="36" height="36" alt="API"/>
   <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux"/>
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React Native"/>
   <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/>
