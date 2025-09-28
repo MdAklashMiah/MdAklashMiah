@@ -1,11 +1,13 @@
-<div align="center">
-  <h1>👋 Hi, I'm Md Aklash Miah</h1>
-</div>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Md+Aklash+Miah;Frontend+Developer;Full+Stack+%7C+MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-<p align="center" >
-🚀 Frontend | Full Stack | MERN Stack Developer
-Passionate about crafting modern, scalable and user-friendly web applications.
-I love turning ideas into reality using clean code and creative UI/UX.
+---
+
+<p align="center">
+🚀 <b>Frontend | Full Stack | MERN Stack Developer</b>  
+<br>Passionate about crafting modern, scalable and user-friendly web applications.  
+<br>I love turning ideas into reality using clean code and creative UI/UX.  
 </p>
 
 ---
@@ -16,34 +18,33 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.icons8.com/color/36/html-5--v1.png" width="36" height="36" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/36/css3.png" width="36" height="36" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/36/bootstrap.png" width="36" height="36" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/36/sass.png" width="36" height="36" alt="SCSS"/>
-  <img src="https://img.icons8.com/color/36/tailwind_css.png" width="36" height="36" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/36/javascript--v1.png" width="36" height="36" alt="JavaScript"/>
-  <img src="https://img.icons8.com/plasticine/36/react.png" width="36" height="36" alt="React"/>
-  <img src="https://img.icons8.com/color/36/nextjs.png" width="36" height="36" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="SCSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js"/>
 
   <!-- Backend -->
-  <img src="https://img.icons8.com/color/36/nodejs.png" width="36" height="36" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/36/express.png" width="36" height="36" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/36/mongodb.png" width="36" height="36" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/36/firebase.png" width="36" height="36" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase"/>
 
   <!-- Others -->
-  <img src="https://img.icons8.com/color/36/api.png" width="36" height="36" alt="API"/>
-  <img src="https://img.icons8.com/color/36/axios.png" width="36" height="36" alt="Axios"/>
-  <img src="https://img.icons8.com/color/36/redux.png" width="36" height="36" alt="Redux"/>
-  <img src="https://img.icons8.com/color/36/react-native.png" width="36" height="36" alt="React Native"/>
-  <img src="https://img.icons8.com/color/36/git.png" width="36" height="36" alt="Git"/>
-  <img src="https://img.icons8.com/color/36/github.png" width="36" height="36" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/36/npm.png" width="36" height="36" alt="NPM"/>
-  <img src="https://img.icons8.com/color/36/webpack.png" width="36" height="36" alt="Webpack"/>
-  <img src="https://img.icons8.com/color/36/netlify.png" width="36" height="36" alt="Netlify"/>
-  <img src="https://img.icons8.com/color/36/vercel.png" width="36" height="36" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=api" width="36" height="36" alt="API"/>
+  <img src="https://skillicons.dev/icons?i=axios" width="36" height="36" alt="Axios"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux"/>
+  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React Native"/>
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="36" height="36" alt="NPM"/>
+  <img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="36" height="36" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel"/>
 </p>
-
 
 ---
 
@@ -51,12 +52,24 @@ I love turning ideas into reality using clean code and creative UI/UX.
   <h2>📈 GitHub Stats</h2>
 </div>  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAklashMiah&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAklashMiah&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight" height="180"/>
+</p>
+
+---
+
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAklashMiah&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAklashMiah&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MdAklashMiah&theme=tokyonight)  
-</div>
+  <h2>📊 Contribution Graph</h2>
+</div>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAklashMiah&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -69,8 +82,25 @@ I love turning ideas into reality using clean code and creative UI/UX.
   <a href="https://www.linkedin.com/in/md-aklash-miah" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/MdAklashMiah" target="_blank">👨‍💻 GitHub</a>
 </p>
+
 ---
 
 <p align="center">
-✨ _Thanks for visiting my profile!_ ✨
+  <img src="https://komarev.com/ghpvc/?username=MdAklashMiah&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+---
+
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+</div>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MdAklashMiah/MdAklashMiah/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+✨ <i>Thanks for visiting my profile!</i> ✨
 </p>
