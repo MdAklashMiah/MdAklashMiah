@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Md Aklash Miah</h1>
 </div>  
 
-<p align="center" width="80%">
+<p align="center" >
 🚀 Frontend | Full Stack | MERN Stack Developer
 Passionate about crafting modern, scalable and user-friendly web applications.
 I love turning ideas into reality using clean code and creative UI/UX.
@@ -10,7 +10,9 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 ---
 
-## 🛠 Tech Stack  
+<div align="center">
+  <h2>🛠 Tech Stack</h2>
+</div>  
 
 <p align="center">
   <!-- Frontend -->
@@ -45,7 +47,9 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 ---
 
-## 📈 GitHub Stats 
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+</div>  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAklashMiah&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAklashMiah&layout=compact&theme=tokyonight)  
@@ -53,7 +57,9 @@ I love turning ideas into reality using clean code and creative UI/UX.
 
 ---
 
-## 🌐 Connect with Me  
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+</div>    
 
 <p align="center">
   <a href="https://tap-to-code.vercel.app" target="_blank">🌍 Portfolio</a> •
