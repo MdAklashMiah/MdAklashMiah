@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Md Aklash Miah  
+# 👋 Hi, I'm Md Aklash Miah 
+# 🚀 Frontend | Full Stack | MERN Stack Developer
+Passionate about crafting modern, scalable and user-friendly web applications.
+I love turning ideas into reality using clean code and creative UI/UX.
 
 ## 🚀 About Me  
 - 💻 I’m a passionate Full-Stack Developer.  
@@ -10,15 +13,38 @@
 
 ---
 
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+## 🛠 Tech Stack  
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/color/36/html-5--v1.png" width="36" height="36" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/36/css3.png" width="36" height="36" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/36/bootstrap.png" width="36" height="36" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/36/sass.png" width="36" height="36" alt="SCSS"/>
+  <img src="https://img.icons8.com/color/36/tailwind_css.png" width="36" height="36" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/36/javascript--v1.png" width="36" height="36" alt="JavaScript"/>
+  <img src="https://img.icons8.com/plasticine/36/react.png" width="36" height="36" alt="React"/>
+  <img src="https://img.icons8.com/color/36/nextjs.png" width="36" height="36" alt="Next.js"/>
+
+  <!-- Backend -->
+  <img src="https://img.icons8.com/color/36/nodejs.png" width="36" height="36" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/36/express.png" width="36" height="36" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/36/mongodb.png" width="36" height="36" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/36/firebase.png" width="36" height="36" alt="Firebase"/>
+
+  <!-- Others -->
+  <img src="https://img.icons8.com/color/36/api.png" width="36" height="36" alt="API"/>
+  <img src="https://img.icons8.com/color/36/axios.png" width="36" height="36" alt="Axios"/>
+  <img src="https://img.icons8.com/color/36/redux.png" width="36" height="36" alt="Redux"/>
+  <img src="https://img.icons8.com/color/36/react-native.png" width="36" height="36" alt="React Native"/>
+  <img src="https://img.icons8.com/color/36/git.png" width="36" height="36" alt="Git"/>
+  <img src="https://img.icons8.com/color/36/github.png" width="36" height="36" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/36/npm.png" width="36" height="36" alt="NPM"/>
+  <img src="https://img.icons8.com/color/36/webpack.png" width="36" height="36" alt="Webpack"/>
+  <img src="https://img.icons8.com/color/36/netlify.png" width="36" height="36" alt="Netlify"/>
+  <img src="https://img.icons8.com/color/36/vercel.png" width="36" height="36" alt="Vercel"/>
+</p>
+
 
 ---
 
