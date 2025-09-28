@@ -1,7 +1,7 @@
 <div align="center">
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Md Aklash Miah</h1>
-  <h3>A passionate backend developer & cloud engineer from India.🚀 Frontend | Full Stack | MERN Stack Developer
+  <h3>🚀 Frontend | Full Stack | MERN Stack Developer
 Passionate about crafting modern, scalable and user-friendly web applications.
 I love turning ideas into reality using clean code and creative UI/UX.</h3>
 </div>
