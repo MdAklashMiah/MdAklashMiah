@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Md Aklash Miah</h1>
 </div>  
 
-<p align="center">
+<p align="center" width="80%">
 🚀 Frontend | Full Stack | MERN Stack Developer
 Passionate about crafting modern, scalable and user-friendly web applications.
 I love turning ideas into reality using clean code and creative UI/UX.
